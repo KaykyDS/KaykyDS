@@ -28,7 +28,7 @@ Aqui estão alguns dos projetos que você pode encontrar no meu perfil:
 
 ---
 
-### [Nome do Projeto 1](https://github.com/KaykyDS/interface_login_python)
+### [Login com Python](https://github.com/KaykyDS/interface_login_python)
 Um sistema básico de login desenvolvido com Python e CustomTkinter.*
 
 ---
