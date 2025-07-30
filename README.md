@@ -2,7 +2,7 @@
 
 ---
 
-Bem-vindo ao meu perfil do GitHub! Eu sou um estudante apaixonado por tecnologia, sempre buscando aprender e aplicar novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em **Python**, **JavaScript** e **Java**, e estou animado para explorar novas áreas e tecnologias.
+Bem-vindo ao meu perfil do GitHub! Eu sou um estudante apaixonado por tecnologia, sempre buscando aprender e aplicar novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Desenvolviento Front-end e estou animado para explorar novas áreas e tecnologias.
 
 ## Sobre Mim
 
@@ -17,8 +17,8 @@ Aqui estão algumas das tecnologias e linguagens com as quais tenho experiência
 
 | Categoria     | Habilidades                                       |
 | :------------ | :------------------------------------------------ |
-| **Linguagens** | Python, JavaScript, Java, HTML, CSS               |
-| **Frameworks** | Nivel: Academico (Node.js, Spring Boot) |
+| **Linguagens** | HTML, CSS, Javascript, Python|
+| **Frameworks** | Vue.js |
 | **Ferramentas** | Git, GitHub, VS Code)       |
 | **Banco de Dados** | (SQL, MySQL) |
 
