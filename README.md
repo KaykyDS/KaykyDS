@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAGvxSCAgpo/U5uSa6f2TWq7dhVOe2mtsQ/view?utm_content=DAGvxSCAgpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4744f9d713" alt="Banner do perfil de Kayky">
+  <img src="banner.png" alt="Banner do perfil de Kayky">
 </div>
 <h1 align="center">Olá, eu sou o Kayky Gonçalves! 👋</h1>
 <p align="center">
@@ -73,13 +73,8 @@
   <div align="center">
   <h2>Onde me encontrar:</h2>
   <a href="https://www.linkedin.com/in/kaykyds5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:kaykyds5@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:kaykyds5@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kaykygonca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykygonca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaykyds5@hotmail.com)
-
-
 
 Obrigado pela visita! 😊
