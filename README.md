@@ -33,10 +33,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">7Devs - Portfólio de Desenvolvedores</h3>
+      <h3 align="center">Porftólio Profissional</h3>
       <div align="center">
-        <a href="[LINK_DO_SEU_PROJETO_7DEVS]" target="_blank">
-          <img src="[LINK_DE_UMA_IMAGEM_DO_PROJETO]" width="400" alt="Preview do Projeto 7Devs">
+        <a href="https://projeto-automacaoeeletrica.vercel.app/" target="_blank">
+          <img src="automacaobanner.jpg" width="400" alt="Preview do Projeto 7Devs">
         </a>
         <p>
           <a href="[LINK_DO_REPOSITORIO_DO_PROJETO]" target="_blank">
@@ -47,15 +47,15 @@
           </a>
         </p>
         <p>
-          Uma página de portfólio para uma equipe de 7 desenvolvedores, criada com React e estilizada para ser moderna e responsiva. O projeto inclui um formulário de contato funcional com Formspree.
+          Uma página de portfólio para um engenheiro eletricista com html,css e js. 
         </p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Landing page IPJD</h3>
       <div align="center">
-        <a href="(https://github.com/KaykyDS/landing-ipjd)" target="_blank">
-          <img src="[LINK_DE_UMA_IMAGEM_DO_PROJETO]" width="400" alt="Preview do Projeto API">
+        <a href="https://jardim-de-deus.vercel.app/" target="_blank">
+          <img src="ipjdbanner.jpg" width="400" alt="Preview do Projeto IPJD">
         </a>
         <p>
           <a href="https://jardim-de-deus.vercel.app/" target="_blank">
@@ -63,7 +63,7 @@
           </a>
         </p>
         <p>
-          Uma lading page criada para divulgar os trabalhos de uma igreja.
+          Uma landing page criada para divulgar os trabalhos de uma igreja.
         </p>
       </div>
     </td>
@@ -74,7 +74,7 @@
   <h2>Onde me encontrar:</h2>
   <a href="https://www.linkedin.com/in/kaykyds5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:kaykyds5@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kaykygonca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/kaykygonca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 Obrigado pela visita! 😊
