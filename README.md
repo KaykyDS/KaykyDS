@@ -39,10 +39,10 @@
           <img src="automacaobanner.jpg" width="400" alt="Preview do Projeto 7Devs">
         </a>
         <p>
-          <a href="[LINK_DO_REPOSITORIO_DO_PROJETO]" target="_blank">
+          <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%B3digo-1D1F21?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <a href="[LINK_DO_DEPLOY_DO_PROJETO]" target="_blank">
+          <a href="https://projeto-automacaoeeletrica.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Online-2575FC?style=for-the-badge&logo=Vercel&logoColor=white">
           </a>
         </p>
