@@ -1,56 +1,85 @@
-# Olá, sou o Kayky! 👋
 
----
+<div align="center">
+  <img src="https://www.canva.com/design/DAGvxSCAgpo/U5uSa6f2TWq7dhVOe2mtsQ/view?utm_content=DAGvxSCAgpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4744f9d713" alt="Banner do perfil de Kayky">
+</div>
+<h1 align="center">Olá, eu sou o Kayky Gonçalves! 👋</h1>
+<p align="center">
+  Um desenvolvedor web apaixonado por transformar ideias em soluções digitais. Atualmente, estou focado em aprimorar minhas habilidades em <strong>React e Node.js</strong> para construir aplicações completas e eficientes.
+</p>
 
-Bem-vindo ao meu perfil do GitHub! Eu sou um estudante apaixonado por tecnologia, sempre buscando aprender e aplicar novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Desenvolviento Front-end e estou animado para explorar novas áreas e tecnologias.
+- 👨‍💻 Explorando o universo do desenvolvimento Front-end.
+- 🚀 Buscando minha primeira oportunidade para colocar em prática meu conhecimento e contribuir em projetos incríveis.
+- 📫 Como me encontrar: [kaykyds5@hotmail.com](mailto:kaykyds5@hotmail.com)
 
-## Sobre Mim
+  <div align="center">
+  <h2>Minhas Habilidades 💻</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-- 🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**.
-- 💻 Explorando o mundo da programação e construindo projetos para colocar a teoria em prática.
-- 🌱 Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
-- 🚀 Curioso sobre **Desenvolvimento Web**, **Automação** e **Inteligência Artificial**.
+<div align="center">
+  <h2>Minhas Estatísticas no GitHub 📊</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykyDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyDS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-## Minhas Habilidades
+  ## 🚀 Meus Principais Projetos
 
-Aqui estão algumas das tecnologias e linguagens com as quais tenho experiência ou estou aprendendo ativamente:
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">7Devs - Portfólio de Desenvolvedores</h3>
+      <div align="center">
+        <a href="[LINK_DO_SEU_PROJETO_7DEVS]" target="_blank">
+          <img src="[LINK_DE_UMA_IMAGEM_DO_PROJETO]" width="400" alt="Preview do Projeto 7Devs">
+        </a>
+        <p>
+          <a href="[LINK_DO_REPOSITORIO_DO_PROJETO]" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-1D1F21?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="[LINK_DO_DEPLOY_DO_PROJETO]" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Online-2575FC?style=for-the-badge&logo=Vercel&logoColor=white">
+          </a>
+        </p>
+        <p>
+          Uma página de portfólio para uma equipe de 7 desenvolvedores, criada com React e estilizada para ser moderna e responsiva. O projeto inclui um formulário de contato funcional com Formspree.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Landing page IPJD</h3>
+      <div align="center">
+        <a href="(https://github.com/KaykyDS/landing-ipjd)" target="_blank">
+          <img src="[LINK_DE_UMA_IMAGEM_DO_PROJETO]" width="400" alt="Preview do Projeto API">
+        </a>
+        <p>
+          <a href="https://jardim-de-deus.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-1D1F21?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p>
+          Uma lading page criada para divulgar os trabalhos de uma igreja.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-| Categoria     | Habilidades                                       |
-| :------------ | :------------------------------------------------ |
-| **Linguagens** | HTML, CSS, Javascript, Python|
-| **Frameworks** | Vue.js |
-| **Ferramentas** | Git, GitHub, VS Code)       |
-| **Banco de Dados** | (SQL, MySQL) |
+  <div align="center">
+  <h2>Onde me encontrar:</h2>
+  <a href="https://www.linkedin.com/in/kaykyds5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:kaykyds5@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-## Meus Projetos
 
-Aqui estão alguns dos projetos que você pode encontrar no meu perfil:
-
----
-
-### [Login com Python](https://github.com/KaykyDS/interface_login_python)
-Um sistema básico de login desenvolvido com Python e CustomTkinter.*
-
----
-
-### [Automação e Elétrica](https://github.com/KaykyDS/projeto_automacaoeeletrica)
-Uma aplicação web interativa construída com HTML, CSS e JavaScript.*
-
----
-
-### [e-commerceUsados](https://github.com/jovicastro/ecommerceUsados)
-Uma aplicação web voltada para ecommerce de produtos usados.*
-
----
-
-## Conecte-se Comigo!
-
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaykyds5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykygonca)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaykyds5@hotmail.com)
 
----
+
 
 Obrigado pela visita! 😊
