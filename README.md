@@ -43,7 +43,7 @@ Atuar como **Assistente de TI / Suporte Técnico**, contribuindo com a resoluç�
 - Manutenção e formatação de computadores  
 - Instalação e configuração de sistemas operacionais  
 - Suporte técnico presencial e remoto  
-- Redes (nível básico/intermediário)  
+- Redes  
 - Automação de atendimentos  
 - Controle e organização de equipamentos de TI  
 
